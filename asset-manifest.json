@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/new-s3cloudhub/static/css/main.7183abbc.css",
-    "main.js": "/new-s3cloudhub/static/js/main.5b820117.js",
+    "main.css": "/new-s3cloudhub/static/css/main.88ceec9b.css",
+    "main.js": "/new-s3cloudhub/static/js/main.e395753e.js",
     "static/media/background.png": "/new-s3cloudhub/static/media/background.387e021b486e12ab323c.png",
+    "static/media/s3_img_1.jpg": "/new-s3cloudhub/static/media/s3_img_1.90aed05a4c4576700674.jpg",
     "static/media/s3-logo.png": "/new-s3cloudhub/static/media/s3-logo.933db8fcd500d1ddf523.png",
     "index.html": "/new-s3cloudhub/index.html",
-    "main.7183abbc.css.map": "/new-s3cloudhub/static/css/main.7183abbc.css.map",
-    "main.5b820117.js.map": "/new-s3cloudhub/static/js/main.5b820117.js.map"
+    "main.88ceec9b.css.map": "/new-s3cloudhub/static/css/main.88ceec9b.css.map",
+    "main.e395753e.js.map": "/new-s3cloudhub/static/js/main.e395753e.js.map"
   },
   "entrypoints": [
-    "static/css/main.7183abbc.css",
-    "static/js/main.5b820117.js"
+    "static/css/main.88ceec9b.css",
+    "static/js/main.e395753e.js"
   ]
 }
